@@ -1,7 +1,7 @@
 Etapes pour l'installation du site web :
 
 Requirements : 
-Il est important que les deux programmes ci-dessous soient installés afin que le site puisse fonctionner en local.
+Il est important que les deux applications ci-dessous soient installés afin que le site puisse fonctionner en local.
 
 Mysql
 Node
