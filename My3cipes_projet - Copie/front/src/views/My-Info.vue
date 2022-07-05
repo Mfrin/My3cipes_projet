@@ -14,7 +14,7 @@
     <div class="rubrique" id="r_who"> 
       <div>
         <h1 id="titre">
-            Qui sommes nous?
+            Qui sommes-nous?
         </h1>
         <p id="r_block">
           My3cipes est un projet étudiant développé par Martin Frin, Paul Cavrois , Luca Pascal, Clément Dauvois, Thomas Legros et Nicolas Gamberini.
@@ -23,14 +23,14 @@
         </p>
       </div>
       <div id="r_overlay_who">
-        <p id="r_text"><br>Qui somme nous? </p>
+        <p id="r_text"><br>Qui sommes-nous? </p>
       </div>
     </div>
 
     <div class="rubrique" id="r_objo">
       <div>
         <h1 id="titre">
-            Objectif
+            Objectifs
         </h1>
         <p id="r_block">
           Pour aider dans la lutte contre le réchauffement climatique ce site web qui suggère des recettes saines et durables mettant en avant des aliments bio et locaux.
@@ -55,20 +55,20 @@
         
       </div>
       <div id="r_overlay_source">
-        <p id="r_text">Nos Source </p>
+        <p id="r_text">Nos Sources </p>
       </div>
     </div>
     <div class="rubrique" id="r_produit">
       <div >
         <h1 id="titre">
-            Bien choisir les produits 
+            Choix des produits 
         </h1>
         <p id="r_block">
             L'éco-score, calculé pour vous recommander vos recettes, est basé sur des données françaises avec des ingrédients naturels. Il est donc important pour suivre la démarche de faire attention aux ingrédients que vous achetez. Il est conseillé de s'approvisionner en produit écologiquement responsable.
         </p>
     </div>
       <div id="r_overlay_produit">
-        <p id="r_text">Choix des produits </p>
+        <p id="r_text">Choix des produits</p>
       </div>
     </div> 
   </div>
