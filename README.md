@@ -26,9 +26,9 @@ Development
 
 Contributors
 
-Clément DAUVOIS
-Paul CAVROIS
-Martin FRIN
-Thomas LEGROS
-Nicolas GAMBERINI
+Clément DAUVOIS /
+Paul CAVROIS /
+Martin FRIN /
+Thomas LEGROS /
+Nicolas GAMBERINI /
 Lucas PASCAL
