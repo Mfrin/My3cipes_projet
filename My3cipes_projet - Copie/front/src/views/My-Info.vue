@@ -33,7 +33,7 @@
             Objectif
         </h1>
         <p id="r_block">
-          Pour aider dans la lutte contre le réchauffement climatique ce site web qui suggére des recettes saines et durables mettant en avant des aliments bio et locaux.
+          Pour aider dans la lutte contre le réchauffement climatique ce site web qui suggère des recettes saines et durables mettant en avant des aliments bio et locaux.
           l'idée est de faciliter et d'encourager la cuisine éco-responsable.
           En proposant trois recettes par repas, nous espérons donner aux utilisateurs un choix varié basé sur leurs sélections précédentes afin de toujours mieux correspondre à leurs goûts.
         </p>
@@ -48,7 +48,7 @@
             Sources
         </h1>
         <p id="r_block">
-          Pour crée ce site nous nous somme basé sur différente donnée. la partie des donnée concernant la composition de l'écoscore provient de la base de donnée agribalyse.
+          Pour créer ce site nous nous sommes basés sur différentes données. La partie des données concernant la composition de l'éco-score provient de la base de données agribalyse.
             
         </p>
 
@@ -64,7 +64,7 @@
             Bien choisir les produits 
         </h1>
         <p id="r_block">
-            L'écoscre calculé pour vous recomendé vos recette est basé sur des donnée francaise avec des ingrédients naturel. Il est donc important pour suivre la démarche de faire attention au ingrédient que vous acheter. il est conseillé de s'approvisionné en produit écologiuement résponsble.
+            L'éco-score, calculé pour vous recommander vos recettes, est basé sur des données françaises avec des ingrédients naturels. Il est donc important pour suivre la démarche de faire attention aux ingrédients que vous achetez. Il est conseillé de s'approvisionner en produit écologiquement responsable.
         </p>
     </div>
       <div id="r_overlay_produit">
