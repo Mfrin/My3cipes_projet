@@ -10,7 +10,8 @@ Mise en place :
 
 Lancer le script SQL all_script sur mysql workbench
 
-Assurez vous que votre base de données soit connectée sur localhost avec "root" comme utilisateur et "1234" comme mot de passe. Sinon, changez directement ces paramètres dans le fichier /server/app/config/db.cong.js afin qu'ils correspondent à vos identifiants SQL.
+Assurez vous que votre base de données soit connectée sur localhost avec "root" comme utilisateur et "1234" comme mot de passe.
+Sinon, changez directement ces paramètres dans le fichier /server/app/config/db.cong.js afin qu'ils correspondent à vos identifiants SQL.
 
 Ouvrir le fichier My3cipes_projet dans un IDE.
 
